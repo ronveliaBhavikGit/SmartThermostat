@@ -58,10 +58,8 @@
 /* Wi-Fi Credentials: Modify WIFI_SSID and WIFI_PASSWORD to match your Wi-Fi
  * network Credentials.
  */
-// #define WIFI_SSID                                "dungeon_master_5g"
-// #define WIFI_PASSWORD                            "dungeon_master_103"
-#define WIFI_SSID                                "SOL"
-#define WIFI_PASSWORD                            "Solutions@123"
+#define WIFI_SSID                                "WIFISSID"
+#define WIFI_PASSWORD                            "PASSWORD"
 
 /* Security type of the Wi-Fi access point. See 'cy_wcm_security_t' structure
  * in "cy_wcm.h" for more details.
