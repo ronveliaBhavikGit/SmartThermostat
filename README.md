@@ -40,3 +40,12 @@ It also synchronizes **clock and date** with the server’s time header and anim
 
 3. Build the project.
 4. Program the board.
+
+## 🖼️ Demo Images
+1. Before WiFi connected. 
+
+![Before Connected to wifi](templates/Before%20Connected.jpg) 
+
+2. After WiFi connected. 
+
+![After Connected to wifi](templates/After%20Connected.jpg)"
